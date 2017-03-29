@@ -5,6 +5,6 @@ main-image: "/uploads/maria%20cantwell.jpg"
 phone-numbers:
   Everett Office: "(213) 894-5000"
   DC Office: "(202) 224-3553"
-website: https://www.harris.senate.gov/
+website: https://www.cantwell.senate.gov/
 ---
 
