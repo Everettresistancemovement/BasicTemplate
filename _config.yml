@@ -63,7 +63,7 @@ baseurl:
 url: everettresistancemovement.com
 everett_resist: 
 Everett Resistance Movement: 
-background-image: "/uploads/Cover-photo.jpg"
+background-image: "\n"
 member-count: 11
 footer-title: Spread the word. Help build a movement.
 markdown: kramdown
